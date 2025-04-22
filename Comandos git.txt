@@ -3,9 +3,14 @@
 
 
 
+git status
 
-git add .
+git add . |  git add nombrearchivo
 
 git commit -m "mensaje de que se hizo"
 
 git push 
+
+clonar un repo:
+
+git clone urldel repo
