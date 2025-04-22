@@ -1,0 +1,11 @@
+ git config --global user.email "isacolors87@gmail.com"
+  git config --global user.name "Isabel rodriguez tapia"
+
+
+
+
+git add .
+
+git commit -m "mensaje de que se hizo"
+
+git push 
